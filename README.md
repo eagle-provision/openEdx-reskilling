@@ -8,6 +8,7 @@ https://qiita.com/kujiraza/items/a8236f65e2c46735ee91
 
 # 現在の契約筐体
 6 CPU
+
 8G Memory
 
 # OS
