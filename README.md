@@ -7,9 +7,13 @@ https://edly.io/academy/openedx-install/
 https://qiita.com/kujiraza/items/a8236f65e2c46735ee91
 
 # 現在の契約筐体
+ConoHa VPS v3
+
 6 CPU
+
 8G Memory
-100GB (初期で16GB使用)
+
+100GB SSD (初期で16GB使用)
 
 # OS
 Ubuntu 22.04.4 LTS
