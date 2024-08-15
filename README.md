@@ -3,6 +3,7 @@ OpenEDXを日本語化する為に必要なファイル、手順を納品して�
 
 # 参照イントール方法
 https://edly.io/academy/openedx-install/
+
 https://qiita.com/kujiraza/items/a8236f65e2c46735ee91
 
 # 先にDNSレコードを用意しておく
