@@ -61,8 +61,8 @@ Your public contact email address [contact@reskilling.dxup.jp] student@dxup.jp
 The default language code for the platform [en] ja
 The default language code for the platform [en] ja-jp
 
-tutor local do createuser --staff --superuser dxupadmin contact@dxup.jp
-Pass: z4Frft6F!a
+tutor local do createuser --staff --superuser $ADMINUSER contact@dxup.jp
+Pass: $ADMINPASSWORD
 
 tutor local do importdemocourse
 
